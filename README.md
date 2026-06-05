@@ -10,12 +10,7 @@ Aplicación Android que muestra una lista de alumnos desde una base de datos Sup
 - **Manejo de errores** – Diálogos amigables para excepciones REST de Supabase.
 
 ## Capturas de pantalla
-
-*(Agrega tus propias capturas aquí)*
-
-| Pantalla principal | Lista de alumnos |
-|-------------------|------------------|
-| <img width="654" height="1459" alt="image" src="https://github.com/user-attachments/assets/3d577854-ac1f-41a6-8107-4947238985ba" />|
+<img width="654" height="1459" alt="image" src="https://github.com/user-attachments/assets/3d577854-ac1f-41a6-8107-4947238985ba" />
 
 ## Tecnologías utilizadas
 
